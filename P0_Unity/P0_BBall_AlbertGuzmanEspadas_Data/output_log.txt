@@ -1,0 +1,101 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7900 Series (ID=0x6798)
+    Vendor:   ATI
+    VRAM:     3053 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\UnityProjects\Projects\BounceBall\P0_BBall_AlbertGuzmanEspadas_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\UnityProjects\Projects\BounceBall\P0_BBall_AlbertGuzmanEspadas_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\UnityProjects\Projects\BounceBall\P0_BBall_AlbertGuzmanEspadas_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\UnityProjects\Projects\BounceBall\P0_BBall_AlbertGuzmanEspadas_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\UnityProjects\Projects\BounceBall\P0_BBall_AlbertGuzmanEspadas_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\UnityProjects\Projects\BounceBall\P0_BBall_AlbertGuzmanEspadas_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\UnityProjects\Projects\BounceBall\P0_BBall_AlbertGuzmanEspadas_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\UnityProjects\Projects\BounceBall\P0_BBall_AlbertGuzmanEspadas_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\UnityProjects\Projects\BounceBall\P0_BBall_AlbertGuzmanEspadas_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\UnityProjects\Projects\BounceBall\P0_BBall_AlbertGuzmanEspadas_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\UnityProjects\Projects\BounceBall\P0_BBall_AlbertGuzmanEspadas_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\UnityProjects\Projects\BounceBall\P0_BBall_AlbertGuzmanEspadas_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\UnityProjects\Projects\BounceBall\P0_BBall_AlbertGuzmanEspadas_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\UnityProjects\Projects\BounceBall\P0_BBall_AlbertGuzmanEspadas_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.283 seconds
+Platform assembly: C:\UnityProjects\Projects\BounceBall\P0_BBall_AlbertGuzmanEspadas_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\UnityProjects\Projects\BounceBall\P0_BBall_AlbertGuzmanEspadas_Data\Managed\System.dll (this message is harmless)
+desktop: 1680x1050 60Hz; virtual: 1680x1050 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.111244 ms
+We do not have a target for the camera.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Platform assembly: C:\UnityProjects\Projects\BounceBall\P0_BBall_AlbertGuzmanEspadas_Data\Managed\Boo.Lang.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1fe0 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.017866 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1644.
+Total: 0.588622 ms (FindLiveObjects: 0.159377 ms CreateObjectMapping: 0.055733 ms MarkObjects: 0.268888 ms  DeleteObjects: 0.098755 ms)
+
+We do not have a target for the camera.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Button 1 Activated - OK!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Button 2 Activated - OK!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Button 3 Activated - OK!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Button 4 Activated - OK!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Middle wall cleared! You can go ahead!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.220755 ms
+
+Unloading 304 unused Assets to reduce memory usage. Loaded Objects now: 530.
+Total: 1.115644 ms (FindLiveObjects: 0.066000 ms CreateObjectMapping: 0.035200 ms MarkObjects: 0.165733 ms  DeleteObjects: 0.842844 ms)
+
+We do not have a target for the camera.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
